@@ -1,58 +1,47 @@
 <div align="center">
 
-# Hey there, I'm Peter Muigai 👋
-
+# Hi there, I'm Peter Muigai 👋
 ### Full-Stack JavaScript Developer
 
-<!-- BADGES SECTION -->
-<!-- These are the colored badges. I used Shields.io to generate them based on your skills -->
-<img src="https://img.shields.io/badge/FRONTEND- Engineer-blue?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/BACKEND-Engineer-green?style=for-the-badge&logo=nodedotjs" />
-<img src="https://img.shields.io/badge/DATABASE-darkgreen?style=for-the-badge&logo=mongodb" />
-<img src="https://img.shields.io/badge/TOOLS-DOCKER-blue?style=for-the-badge&logo=docker" />
+<!-- Contact Badges -->
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/your-linkedin/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 <br />
 <br />
 
-<!-- ABOUT ME SECTION -->
-I'm passionate about building modern web applications using JavaScript across the entire stack. I believe in writing clean, maintainable code and creating seamless user experiences.
+<!-- Core Tech Stack Badges -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 </div>
 
 ---
 
-### 🚀 What I Work With
+### 👨‍💻 About Me
 
-**Frontend**
-*   React, Next.js, Vue.js
-*   TypeScript, ES6+
-*   Tailwind CSS, styled-components
-*   Redux, Zustand, React Query
-*   Vite, Webpack
+I'm a Full-Stack Developer passionate about building modern web applications using JavaScript across the entire stack. I believe in writing clean, maintainable code and creating seamless user experiences. 
 
-**Backend**
-*   Node.js, Express.js, Hono.js
-*   NestJS, Fastify
-*   RESTful APIs, GraphQL
-*   Socket.io for real-time features
-*   JWT authentication
-
-**Database & Tools**
-*   MSSQL, MongoDB, PostgreSQL
-*   Prisma, Mongoose
-*   Redis for caching
-*   Git, GitHub Actions
-*   Docker
+* 🎓 **Background:** BBIT Graduate from the University of Embu.
+* 🚀 **Focus:** Building performant full-stack applications (MERN stack), RESTful APIs, and integrating AI features.
+* 🌱 **Learning:** Next.js, Microservices, and advanced AI/ML concepts.
 
 ---
 
-### 💡 Current Focus
+### 🛠 Tech Stack
 
-I'm currently diving deeper into:
-*   Building performant full-stack applications with the MERN stack
-*   Server-side rendering and static site generation with Next.js
-*   Microservices architecture with Node.js
-*   Real-time applications using WebSockets
+*   **Frontend:** React, Angular, Next.js, Tailwind CSS, HTML5, CSS3
+*   **Backend:** Node.js, Express.js, Hono.js, Django REST Framework
+*   **Database:** MSSQL, MySQL, PostgreSQL, MongoDB, Firebase
+*   **DevOps & Tools:** Git, GitHub, Docker, Power BI, Wireshark
 
 ---
 
@@ -61,8 +50,6 @@ I'm currently diving deeper into:
 ### 📫 Let's Connect
 
 Feel free to reach out if you want to collaborate on projects!
-
-<br />
 
 *"The best error message is the one that never shows up." - Thomas Fuchs*
 
