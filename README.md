@@ -6,10 +6,9 @@
 
 <!-- BADGES SECTION -->
 <!-- These are the colored badges. I used Shields.io to generate them based on your skills -->
-<img src="https://img.shields.io/badge/FRONTEND-REACT-blue?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/BACKEND-NODE.JS-green?style=for-the-badge&logo=nodedotjs" />
-<img src="https://img.shields.io/badge/LANGUAGE-TYPESCRIPT-blue?style=for-the-badge&logo=typescript" />
-<img src="https://img.shields.io/badge/DATABASE-MONGODB-darkgreen?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/FRONTEND- Engineer-blue?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/BACKEND-Engineer-green?style=for-the-badge&logo=nodedotjs" />
+<img src="https://img.shields.io/badge/DATABASE-darkgreen?style=for-the-badge&logo=mongodb" />
 <img src="https://img.shields.io/badge/TOOLS-DOCKER-blue?style=for-the-badge&logo=docker" />
 
 <br />
