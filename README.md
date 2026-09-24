@@ -4,10 +4,10 @@
 ### Full-Stack JavaScript Developer
 
 <!-- Contact Badges -->
-<a href="mailto:your.email@example.com">
+<a href="mailto:Muigaipeter61@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://www.linkedin.com/in/your-linkedin/">
+<a href="https://www.linkedin.com/in/peter-muturi-303089306/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
@@ -52,5 +52,16 @@ I'm a Full-Stack Developer passionate about building modern web applications usi
 Feel free to reach out if you want to collaborate on projects!
 
 *"The best error message is the one that never shows up." - Thomas Fuchs*
+
+<br />
+<br />
+
+<!-- WhatsApp and Call Badges -->
+<a href="https://wa.me/254703551225">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+<a href="tel:+254703551225">
+  <img src="https://img.shields.io/badge/Call_Me-0078D4?style=for-the-badge&logo=phone&logoColor=white" alt="Call Me" />
+</a>
 
 </div>
